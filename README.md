@@ -1,5 +1,2 @@
-# hei_maailma
-Test repository
+# My Stuff
 
-This is a tutorial file to learn how to use the GitHub editor.
-Liking it! :)
